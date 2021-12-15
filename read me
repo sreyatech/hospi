@@ -2,3 +2,5 @@ hi,
 name : hospi
 objective : hospital/clinic management system with admin
 languages : php/laravel, html, mysql, css
+admin : admin@email.com
+admin pw : admin123
